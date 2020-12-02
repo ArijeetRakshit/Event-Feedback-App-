@@ -23,8 +23,6 @@
 }
 .event_input button{
     outline: none;
-    /* height: 50px;
-    width:125px; */
     border-radius: 25%;
     background-color: red;
     color:white;
